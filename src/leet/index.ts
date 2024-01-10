@@ -1,0 +1,1 @@
+// import {describeThePainting} from "./medium/describe-the painting";
